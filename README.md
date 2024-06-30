@@ -64,10 +64,9 @@ To get a local copy up and running follow these simple steps.
 
 3. Run the project
 
-```sh
-  Run the project using XAMPP or any other server
-```
-
+  ```sh
+    Run the project using XAMPP or any other server
+  ```
 4. Open the browser and go to `http://localhost/blog-sys-with-cms-app-php`
 5. Enjoy!
 
